@@ -1,13 +1,6 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://www.sbs.com.au/language/chinese/zh-hans/collection/mandarin-news"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://www.sbs.com.au/language/chinese/zh-hans/collection/mandarin-news"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[funmovies]
+title = "jushuofangying"
+url = "https://space.bilibili.com/386186788/upload/video"
+entrySelector = ".upload-video-card grid-mode"
+titleSelector = ".bili-video-card__title"
+linkSelector = ".bili-video-card__title a"
